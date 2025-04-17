@@ -1,0 +1,4 @@
+{
+    "build": [],
+    "start": "python actualizar_eventos.py"
+}
