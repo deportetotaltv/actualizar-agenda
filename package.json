@@ -1,0 +1,12 @@
+{
+    "name": "scripts-eventos",
+    "version": "1.0.0",
+    "description": "Script para actualizar agenda de eventos deportivos automáticamente",
+    "main": "actualizar_eventos.py",
+    "scripts": {
+    "start": "python3 actualizar_eventos.py"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT"
+}
